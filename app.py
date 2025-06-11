@@ -47,8 +47,8 @@ def my_output(query):
 
 #### UI Development using streamlit 
 
-st.set_page_config(page_title="QUERY_BOT")
-st.header("QUERY_BOT") 
+st.set_page_config(page_title="YASHASVI's_BOT")
+st.header("YASHASVI's_BOT") 
 input = st.text_input("Input " , key = "input")  
 submit = st.button("Ask your query") 
 
